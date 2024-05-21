@@ -18,5 +18,6 @@ Other: ![Huggingface dataset](https://huggingface.co/datasets/convoicon/Thorough
 | OpenChat 3.5      | 58.515   | 28.526     | 28.317    | 46.063 | 50.502    | 21.351 |
 | Zephyr-7B-β       | 53.888   | 30.082     | 32.723    | 38.855 | 49.734    | 22.376 |
 
-#Test your own models
+# Test your own models
+
 You can easily benchmark your own models on TET dataset by using this ![notebook](https://github.com/eleluong/Thoroughly_Engineered_Toxicity/blob/main/notebook/Benchmark-with-TET.ipynb). Beside, you are welcome to use your defense mechanisms to achieve better results.
