@@ -1,7 +1,8 @@
 # Thoroughly_Engineered_Toxicity
 
-Thoroughly Engineered Toxicity dataset is a dataset created by filtering a set of prompts from Chat-Lmsys-1M dataset, each prompt has high potential of exposing the toxicity of Large Language models (LLMs).
-Other: ![Huggingface dataset](https://huggingface.co/datasets/convoicon/Thoroughly_Engineered_Toxicity) ![Arxiv](https://arxiv.org/pdf/2405.10659)
+Thoroughly Engineered Toxicity is a dataset created by filtering a set of prompts from Chat-Lmsys-1M dataset, each prompt has high potential of exposing the toxicity in Large Language models (LLMs).
+
+Others: ![Huggingface dataset](https://huggingface.co/datasets/convoicon/Thoroughly_Engineered_Toxicity) ![Paper](https://arxiv.org/pdf/2405.10659)
 
 # Toxicity Evaluation results on TET
 
